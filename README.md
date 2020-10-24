@@ -22,4 +22,11 @@ Here we can see the strategies proposed (between 0 to 8) at every time step from
 ![](thompsonconvergence.gif)
 
 
+# Results
 
+The convergence of Thompson Sampling algorithm is very quick. This is illustrated by the Regret Curves shown below.
+
+![](random.png)    ![](thompson.png)
+
+- Thompson Sampling is converging very well towards the best strategy
+- No convergence of the Random Strategy towards the Best Strategy
